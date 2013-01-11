@@ -1,0 +1,12 @@
+Version
+mapSNV-0.1a.pl
+	first working
+mapSNV-0.1b.pl
+	separate mapping of rare and common variants
+mapSNV-0.1c.pl
+	fetch biological assemblies
+	correction of display
+snv2pdb-0.2.pl
+	new name and version numbering
+	new name of output file
+	
