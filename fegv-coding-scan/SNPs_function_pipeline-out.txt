@@ -1,0 +1,779 @@
+O97980	HMHB1_HUMAN	M1A	benign	alignment	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	M1C	benign	alignment	effect unknown	0.009	0.233	0.961	
+O97980	HMHB1_HUMAN	M1D	benign	alignment	effect unknown	0.002	0.704	0.987	
+O97980	HMHB1_HUMAN	M1E	benign	alignment	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	M1F	benign	alignment	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	M1G	benign	alignment	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	M1H	benign	alignment	effect unknown	0.02	0.198	0.952	
+O97980	HMHB1_HUMAN	M1I	benign	alignment	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	M1K	benign	alignment	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	M1L	benign	alignment	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	M1N	benign	alignment	effect unknown	0.002	0.704	0.987	
+O97980	HMHB1_HUMAN	M1P	benign	alignment	effect unknown	0.002	0.704	0.987	
+O97980	HMHB1_HUMAN	M1Q	benign	alignment	effect unknown	0.002	0.704	0.987	
+O97980	HMHB1_HUMAN	M1R	benign	alignment	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	M1S	benign	alignment	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	M1T	benign	alignment	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	M1V	benign	alignment	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	M1W	benign	alignment	effect unknown	0.02	0.198	0.952	
+O97980	HMHB1_HUMAN	M1Y	benign	alignment	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	E2A	benign	alignment_mz	effect unknown	0.157	0.133	0.921	
+O97980	HMHB1_HUMAN	E2C	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	E2D	benign	alignment_mz	effect unknown	0.033	0.179	0.946	
+O97980	HMHB1_HUMAN	E2F	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	E2G	benign	alignment_mz	effect unknown	0.015	0.209	0.956	
+O97980	HMHB1_HUMAN	E2H	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	E2I	probably damaging	alignment_mz	effect unknown	0.978	0.0417	0.756	
+O97980	HMHB1_HUMAN	E2K	benign	alignment_mz	effect unknown	0.253	0.118	0.911	
+O97980	HMHB1_HUMAN	E2L	probably damaging	alignment_mz	effect unknown	0.978	0.0417	0.756	
+O97980	HMHB1_HUMAN	E2M	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	E2N	possibly damaging	alignment_mz	effect unknown	0.917	0.0597	0.812	
+O97980	HMHB1_HUMAN	E2P	probably damaging	alignment_mz	effect unknown	0.978	0.0417	0.756	
+O97980	HMHB1_HUMAN	E2Q	possibly damaging	alignment_mz	effect unknown	0.944	0.0544	0.797	
+O97980	HMHB1_HUMAN	E2R	possibly damaging	alignment_mz	effect unknown	0.917	0.0597	0.812	
+O97980	HMHB1_HUMAN	E2S	possibly damaging	alignment_mz	effect unknown	0.863	0.0664	0.83	
+O97980	HMHB1_HUMAN	E2T	probably damaging	alignment_mz	effect unknown	0.957	0.0496	0.784	
+O97980	HMHB1_HUMAN	E2V	probably damaging	alignment_mz	effect unknown	0.971	0.0444	0.768	
+O97980	HMHB1_HUMAN	E2W	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	E2Y	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	E3A	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E3C	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E3D	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E3F	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E3G	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E3H	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E3I	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E3K	probably damaging	alignment_mz	effect unknown	0.964	0.0472	0.777	
+O97980	HMHB1_HUMAN	E3L	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E3M	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E3N	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E3P	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E3Q	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E3R	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E3S	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E3T	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E3V	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E3W	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E3Y	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	Q4A	benign	alignment_mz	effect unknown	0.011	0.222	0.959	
+O97980	HMHB1_HUMAN	Q4C	possibly damaging	alignment_mz	effect unknown	0.761	0.0768	0.852	
+O97980	HMHB1_HUMAN	Q4D	benign	alignment_mz	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	Q4E	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	Q4F	possibly damaging	alignment_mz	effect unknown	0.476	0.0987	0.886	
+O97980	HMHB1_HUMAN	Q4G	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	Q4H	benign	alignment_mz	effect unknown	0.441	0.101	0.89	
+O97980	HMHB1_HUMAN	Q4I	benign	alignment_mz	effect unknown	0.23	0.121	0.912	
+O97980	HMHB1_HUMAN	Q4K	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	Q4L	benign	alignment_mz	effect unknown	0.044	0.17	0.942	
+O97980	HMHB1_HUMAN	Q4M	possibly damaging	alignment_mz	effect unknown	0.761	0.0768	0.852	
+O97980	HMHB1_HUMAN	Q4N	benign	alignment_mz	effect unknown	0.026	0.188	0.949	
+O97980	HMHB1_HUMAN	Q4P	benign	alignment_mz	effect unknown	0.085	0.151	0.932	
+O97980	HMHB1_HUMAN	Q4R	benign	alignment_mz	effect unknown	0.01	0.226	0.96	
+O97980	HMHB1_HUMAN	Q4S	benign	alignment_mz	effect unknown	0.011	0.222	0.959	
+O97980	HMHB1_HUMAN	Q4T	benign	alignment_mz	effect unknown	0.026	0.188	0.949	
+O97980	HMHB1_HUMAN	Q4V	benign	alignment_mz	effect unknown	0.11	0.143	0.928	
+O97980	HMHB1_HUMAN	Q4W	possibly damaging	alignment_mz	effect unknown	0.923	0.0586	0.809	
+O97980	HMHB1_HUMAN	Q4Y	possibly damaging	alignment_mz	effect unknown	0.476	0.0987	0.886	
+O97980	HMHB1_HUMAN	P5A	benign	alignment_mz	effect unknown	0.009	0.233	0.961	
+O97980	HMHB1_HUMAN	P5C	possibly damaging	alignment_mz	effect unknown	0.778	0.075	0.848	
+O97980	HMHB1_HUMAN	P5D	benign	alignment_mz	effect unknown	0.051	0.165	0.941	
+O97980	HMHB1_HUMAN	P5E	benign	alignment_mz	effect unknown	0.012	0.219	0.958	
+O97980	HMHB1_HUMAN	P5F	possibly damaging	alignment_mz	effect unknown	0.482	0.0983	0.886	
+O97980	HMHB1_HUMAN	P5G	benign	alignment_mz	effect unknown	0.026	0.188	0.949	
+O97980	HMHB1_HUMAN	P5H	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	P5I	benign	alignment_mz	effect unknown	0.116	0.142	0.927	
+O97980	HMHB1_HUMAN	P5K	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	P5L	benign	alignment_mz	effect unknown	0.039	0.174	0.944	
+O97980	HMHB1_HUMAN	P5M	possibly damaging	alignment_mz	effect unknown	0.739	0.0789	0.854	
+O97980	HMHB1_HUMAN	P5N	benign	alignment_mz	effect unknown	0.026	0.188	0.949	
+O97980	HMHB1_HUMAN	P5Q	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	P5R	benign	alignment_mz	effect unknown	0.02	0.198	0.952	
+O97980	HMHB1_HUMAN	P5S	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	P5T	benign	alignment_mz	effect unknown	0.02	0.198	0.952	
+O97980	HMHB1_HUMAN	P5V	benign	alignment_mz	effect unknown	0.051	0.165	0.941	
+O97980	HMHB1_HUMAN	P5W	possibly damaging	alignment_mz	effect unknown	0.914	0.0603	0.813	
+O97980	HMHB1_HUMAN	P5Y	benign	alignment_mz	effect unknown	0.116	0.142	0.927	
+O97980	HMHB1_HUMAN	E6A	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	E6C	probably damaging	alignment_mz	effect unknown	0.984	0.0381	0.743	
+O97980	HMHB1_HUMAN	E6D	benign	alignment_mz	effect unknown	0.358	0.109	0.898	
+O97980	HMHB1_HUMAN	E6F	possibly damaging	alignment_mz	effect unknown	0.941	0.0556	0.799	
+O97980	HMHB1_HUMAN	E6G	benign	alignment_mz	effect unknown	0.021	0.196	0.951	
+O97980	HMHB1_HUMAN	E6H	possibly damaging	alignment_mz	effect unknown	0.941	0.0556	0.799	
+O97980	HMHB1_HUMAN	E6I	possibly damaging	alignment_mz	effect unknown	0.722	0.08	0.857	
+O97980	HMHB1_HUMAN	E6K	benign	alignment_mz	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	E6L	benign	alignment_mz	effect unknown	0.425	0.103	0.892	
+O97980	HMHB1_HUMAN	E6M	possibly damaging	alignment_mz	effect unknown	0.941	0.0556	0.799	
+O97980	HMHB1_HUMAN	E6N	benign	alignment_mz	effect unknown	0.425	0.103	0.892	
+O97980	HMHB1_HUMAN	E6P	possibly damaging	alignment_mz	effect unknown	0.6	0.0918	0.873	
+O97980	HMHB1_HUMAN	E6Q	benign	alignment_mz	effect unknown	0.358	0.109	0.898	
+O97980	HMHB1_HUMAN	E6R	benign	alignment_mz	effect unknown	0.27	0.116	0.909	
+O97980	HMHB1_HUMAN	E6S	benign	alignment_mz	effect unknown	0.01	0.226	0.96	
+O97980	HMHB1_HUMAN	E6T	benign	alignment_mz	effect unknown	0.012	0.219	0.958	
+O97980	HMHB1_HUMAN	E6V	benign	alignment_mz	effect unknown	0.358	0.109	0.898	
+O97980	HMHB1_HUMAN	E6W	probably damaging	alignment_mz	effect unknown	0.984	0.0381	0.743	
+O97980	HMHB1_HUMAN	E6Y	possibly damaging	alignment_mz	effect unknown	0.941	0.0556	0.799	
+O97980	HMHB1_HUMAN	C7A	benign	alignment_mz	effect unknown	0.063	0.16	0.937	
+O97980	HMHB1_HUMAN	C7D	possibly damaging	alignment_mz	effect unknown	0.6	0.0918	0.873	
+O97980	HMHB1_HUMAN	C7E	benign	alignment_mz	effect unknown	0.425	0.103	0.892	
+O97980	HMHB1_HUMAN	C7F	benign	alignment_mz	effect unknown	0.003	0.556	0.981	
+O97980	HMHB1_HUMAN	C7G	benign	alignment_mz	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	C7H	benign	alignment_mz	effect unknown	0.005	0.26	0.968	
+O97980	HMHB1_HUMAN	C7I	possibly damaging	alignment_mz	effect unknown	0.6	0.0918	0.873	
+O97980	HMHB1_HUMAN	C7K	benign	alignment_mz	effect unknown	0.27	0.116	0.909	
+O97980	HMHB1_HUMAN	C7L	benign	alignment_mz	effect unknown	0.234	0.121	0.912	
+O97980	HMHB1_HUMAN	C7M	possibly damaging	alignment_mz	effect unknown	0.941	0.0556	0.799	
+O97980	HMHB1_HUMAN	C7N	benign	alignment_mz	effect unknown	0.425	0.103	0.892	
+O97980	HMHB1_HUMAN	C7P	possibly damaging	alignment_mz	effect unknown	0.941	0.0556	0.799	
+O97980	HMHB1_HUMAN	C7Q	benign	alignment_mz	effect unknown	0.425	0.103	0.892	
+O97980	HMHB1_HUMAN	C7R	benign	alignment_mz	effect unknown	0.003	0.556	0.981	
+O97980	HMHB1_HUMAN	C7S	benign	alignment_mz	effect unknown	0.021	0.196	0.951	
+O97980	HMHB1_HUMAN	C7T	benign	alignment_mz	effect unknown	0.234	0.121	0.912	
+O97980	HMHB1_HUMAN	C7V	benign	alignment_mz	effect unknown	0.382	0.106	0.897	
+O97980	HMHB1_HUMAN	C7W	possibly damaging	alignment_mz	effect unknown	0.924	0.0584	0.808	
+O97980	HMHB1_HUMAN	C7Y	benign	alignment_mz	effect unknown	0.009	0.233	0.961	
+O97980	HMHB1_HUMAN	R8A	benign	alignment_mz	effect unknown	0.256	0.118	0.911	
+O97980	HMHB1_HUMAN	R8C	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	R8D	possibly damaging	alignment_mz	effect unknown	0.854	0.0672	0.832	
+O97980	HMHB1_HUMAN	R8E	possibly damaging	alignment_mz	effect unknown	0.625	0.0894	0.869	
+O97980	HMHB1_HUMAN	R8F	possibly damaging	alignment_mz	effect unknown	0.922	0.0588	0.809	
+O97980	HMHB1_HUMAN	R8G	possibly damaging	alignment_mz	effect unknown	0.557	0.0943	0.878	
+O97980	HMHB1_HUMAN	R8H	probably damaging	alignment_mz	effect unknown	0.973	0.044	0.765	
+O97980	HMHB1_HUMAN	R8I	possibly damaging	alignment_mz	effect unknown	0.815	0.0708	0.84	
+O97980	HMHB1_HUMAN	R8K	benign	alignment_mz	effect unknown	0.017	0.205	0.954	
+O97980	HMHB1_HUMAN	R8L	possibly damaging	alignment_mz	effect unknown	0.454	0.0996	0.889	
+O97980	HMHB1_HUMAN	R8M	benign	alignment_mz	effect unknown	0.256	0.118	0.911	
+O97980	HMHB1_HUMAN	R8N	possibly damaging	alignment_mz	effect unknown	0.625	0.0894	0.869	
+O97980	HMHB1_HUMAN	R8P	possibly damaging	alignment_mz	effect unknown	0.922	0.0588	0.809	
+O97980	HMHB1_HUMAN	R8Q	possibly damaging	alignment_mz	effect unknown	0.854	0.0672	0.832	
+O97980	HMHB1_HUMAN	R8S	benign	alignment_mz	effect unknown	0.102	0.145	0.929	
+O97980	HMHB1_HUMAN	R8T	benign	alignment_mz	effect unknown	0.009	0.233	0.961	
+O97980	HMHB1_HUMAN	R8V	possibly damaging	alignment_mz	effect unknown	0.454	0.0996	0.889	
+O97980	HMHB1_HUMAN	R8W	benign	alignment_mz	effect unknown	0.027	0.186	0.948	
+O97980	HMHB1_HUMAN	R8Y	possibly damaging	alignment_mz	effect unknown	0.854	0.0672	0.832	
+O97980	HMHB1_HUMAN	E9A	possibly damaging	alignment_mz	effect unknown	0.879	0.0648	0.825	
+O97980	HMHB1_HUMAN	E9C	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E9D	benign	alignment_mz	effect unknown	0.089	0.149	0.932	
+O97980	HMHB1_HUMAN	E9F	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	E9G	benign	alignment_mz	effect unknown	0.009	0.233	0.961	
+O97980	HMHB1_HUMAN	E9H	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E9I	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	E9K	benign	alignment_mz	effect unknown	0.089	0.149	0.932	
+O97980	HMHB1_HUMAN	E9L	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	E9M	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E9N	possibly damaging	alignment_mz	effect unknown	0.951	0.0522	0.79	
+O97980	HMHB1_HUMAN	E9P	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	E9Q	benign	alignment_mz	effect unknown	0.22	0.122	0.914	
+O97980	HMHB1_HUMAN	E9R	possibly damaging	alignment_mz	effect unknown	0.944	0.0544	0.797	
+O97980	HMHB1_HUMAN	E9S	possibly damaging	alignment_mz	effect unknown	0.906	0.0617	0.816	
+O97980	HMHB1_HUMAN	E9T	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	E9V	probably damaging	alignment_mz	effect unknown	0.981	0.0399	0.75	
+O97980	HMHB1_HUMAN	E9W	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E9Y	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	E10A	probably damaging	alignment_mz	effect unknown	0.965	0.047	0.776	
+O97980	HMHB1_HUMAN	E10C	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E10D	possibly damaging	alignment_mz	effect unknown	0.461	0.0994	0.888	
+O97980	HMHB1_HUMAN	E10F	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E10G	benign	alignment_mz	effect unknown	0.166	0.131	0.92	
+O97980	HMHB1_HUMAN	E10H	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E10I	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E10K	possibly damaging	alignment_mz	effect unknown	0.662	0.0862	0.864	
+O97980	HMHB1_HUMAN	E10L	probably damaging	alignment_mz	effect unknown	0.996	0.0222	0.545	
+O97980	HMHB1_HUMAN	E10M	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E10N	possibly damaging	alignment_mz	effect unknown	0.883	0.0643	0.823	
+O97980	HMHB1_HUMAN	E10P	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E10Q	probably damaging	alignment_mz	effect unknown	0.99	0.0338	0.719	
+O97980	HMHB1_HUMAN	E10R	probably damaging	alignment_mz	effect unknown	0.985	0.0375	0.74	
+O97980	HMHB1_HUMAN	E10S	possibly damaging	alignment_mz	effect unknown	0.883	0.0643	0.823	
+O97980	HMHB1_HUMAN	E10T	probably damaging	alignment_mz	effect unknown	0.992	0.0314	0.704	
+O97980	HMHB1_HUMAN	E10V	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	E10W	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E10Y	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	K11A	benign	alignment_mz	effect unknown	0.114	0.142	0.927	
+O97980	HMHB1_HUMAN	K11C	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	K11D	possibly damaging	alignment_mz	effect unknown	0.906	0.0617	0.816	
+O97980	HMHB1_HUMAN	K11E	benign	alignment_mz	effect unknown	0.22	0.122	0.914	
+O97980	HMHB1_HUMAN	K11F	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	K11G	possibly damaging	alignment_mz	effect unknown	0.906	0.0617	0.816	
+O97980	HMHB1_HUMAN	K11H	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	K11I	benign	alignment_mz	effect unknown	0.395	0.105	0.896	
+O97980	HMHB1_HUMAN	K11L	possibly damaging	alignment_mz	effect unknown	0.828	0.0694	0.838	
+O97980	HMHB1_HUMAN	K11M	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	K11N	probably damaging	alignment_mz	effect unknown	0.981	0.0399	0.75	
+O97980	HMHB1_HUMAN	K11P	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	K11Q	probably damaging	alignment_mz	effect unknown	0.962	0.0478	0.779	
+O97980	HMHB1_HUMAN	K11R	benign	alignment_mz	effect unknown	0.05	0.166	0.941	
+O97980	HMHB1_HUMAN	K11S	possibly damaging	alignment_mz	effect unknown	0.828	0.0694	0.838	
+O97980	HMHB1_HUMAN	K11T	possibly damaging	alignment_mz	effect unknown	0.879	0.0648	0.825	
+O97980	HMHB1_HUMAN	K11V	possibly damaging	alignment_mz	effect unknown	0.464	0.0994	0.888	
+O97980	HMHB1_HUMAN	K11W	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	K11Y	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	R12A	benign	alignment_mz	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	R12C	possibly damaging	alignment_mz	effect unknown	0.904	0.0621	0.816	
+O97980	HMHB1_HUMAN	R12D	benign	alignment_mz	effect unknown	0.152	0.134	0.921	
+O97980	HMHB1_HUMAN	R12E	benign	alignment_mz	effect unknown	0.007	0.246	0.965	
+O97980	HMHB1_HUMAN	R12F	possibly damaging	alignment_mz	effect unknown	0.755	0.0772	0.852	
+O97980	HMHB1_HUMAN	R12G	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	R12H	possibly damaging	alignment_mz	effect unknown	0.755	0.0772	0.852	
+O97980	HMHB1_HUMAN	R12I	benign	alignment_mz	effect unknown	0.141	0.136	0.923	
+O97980	HMHB1_HUMAN	R12K	benign	alignment_mz	effect unknown	0.005	0.26	0.968	
+O97980	HMHB1_HUMAN	R12L	benign	alignment_mz	effect unknown	0.082	0.153	0.933	
+O97980	HMHB1_HUMAN	R12M	possibly damaging	alignment_mz	effect unknown	0.755	0.0772	0.852	
+O97980	HMHB1_HUMAN	R12N	benign	alignment_mz	effect unknown	0.152	0.134	0.921	
+O97980	HMHB1_HUMAN	R12P	possibly damaging	alignment_mz	effect unknown	0.728	0.0796	0.856	
+O97980	HMHB1_HUMAN	R12Q	benign	alignment_mz	effect unknown	0.017	0.205	0.954	
+O97980	HMHB1_HUMAN	R12S	benign	alignment_mz	effect unknown	0.029	0.183	0.948	
+O97980	HMHB1_HUMAN	R12T	benign	alignment_mz	effect unknown	0.005	0.26	0.968	
+O97980	HMHB1_HUMAN	R12V	benign	alignment_mz	effect unknown	0.002	0.704	0.987	
+O97980	HMHB1_HUMAN	R12W	probably damaging	alignment_mz	effect unknown	0.973	0.044	0.765	
+O97980	HMHB1_HUMAN	R12Y	possibly damaging	alignment_mz	effect unknown	0.904	0.0621	0.816	
+O97980	HMHB1_HUMAN	G13A	benign	alignment_mz	effect unknown	0.172	0.13	0.919	
+O97980	HMHB1_HUMAN	G13C	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	G13D	benign	alignment_mz	effect unknown	0.02	0.198	0.952	
+O97980	HMHB1_HUMAN	G13E	possibly damaging	alignment_mz	effect unknown	0.911	0.0607	0.814	
+O97980	HMHB1_HUMAN	G13F	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	G13H	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	G13I	probably damaging	alignment_mz	effect unknown	0.973	0.044	0.765	
+O97980	HMHB1_HUMAN	G13K	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	G13L	probably damaging	alignment_mz	effect unknown	0.973	0.044	0.765	
+O97980	HMHB1_HUMAN	G13M	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	G13N	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	G13P	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	G13Q	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	G13R	probably damaging	alignment_mz	effect unknown	0.991	0.0326	0.711	
+O97980	HMHB1_HUMAN	G13S	possibly damaging	alignment_mz	effect unknown	0.886	0.064	0.822	
+O97980	HMHB1_HUMAN	G13T	benign	alignment_mz	effect unknown	0.389	0.106	0.896	
+O97980	HMHB1_HUMAN	G13V	possibly damaging	alignment_mz	effect unknown	0.524	0.0959	0.882	
+O97980	HMHB1_HUMAN	G13W	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	G13Y	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	S14A	benign	alignment_mz	effect unknown	0.012	0.219	0.958	
+O97980	HMHB1_HUMAN	S14C	benign	alignment_mz	effect unknown	0.006	0.253	0.967	
+O97980	HMHB1_HUMAN	S14D	possibly damaging	alignment_mz	effect unknown	0.781	0.0747	0.848	
+O97980	HMHB1_HUMAN	S14E	benign	alignment_mz	effect unknown	0.094	0.147	0.931	
+O97980	HMHB1_HUMAN	S14F	benign	alignment_mz	effect unknown	0.003	0.556	0.981	
+O97980	HMHB1_HUMAN	S14G	benign	alignment_mz	effect unknown	0.334	0.111	0.902	
+O97980	HMHB1_HUMAN	S14H	probably damaging	alignment_mz	effect unknown	0.976	0.043	0.76	
+O97980	HMHB1_HUMAN	S14I	possibly damaging	alignment_mz	effect unknown	0.638	0.0888	0.867	
+O97980	HMHB1_HUMAN	S14K	possibly damaging	alignment_mz	effect unknown	0.781	0.0747	0.848	
+O97980	HMHB1_HUMAN	S14L	benign	alignment_mz	effect unknown	0.201	0.125	0.916	
+O97980	HMHB1_HUMAN	S14M	probably damaging	alignment_mz	effect unknown	0.976	0.043	0.76	
+O97980	HMHB1_HUMAN	S14N	possibly damaging	alignment_mz	effect unknown	0.916	0.0599	0.812	
+O97980	HMHB1_HUMAN	S14P	benign	alignment_mz	effect unknown	0.006	0.253	0.967	
+O97980	HMHB1_HUMAN	S14Q	possibly damaging	alignment_mz	effect unknown	0.916	0.0599	0.812	
+O97980	HMHB1_HUMAN	S14R	possibly damaging	alignment_mz	effect unknown	0.916	0.0599	0.812	
+O97980	HMHB1_HUMAN	S14T	benign	alignment_mz	effect unknown	0.033	0.179	0.946	
+O97980	HMHB1_HUMAN	S14V	benign	alignment_mz	effect unknown	0.201	0.125	0.916	
+O97980	HMHB1_HUMAN	S14W	probably damaging	alignment_mz	effect unknown	0.976	0.043	0.76	
+O97980	HMHB1_HUMAN	S14Y	benign	alignment_mz	effect unknown	0.4	0.105	0.895	
+O97980	HMHB1_HUMAN	L15A	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	L15C	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	L15D	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	L15E	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	L15F	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	L15G	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	L15H	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	L15I	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	L15K	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	L15M	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	L15N	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	L15P	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	L15Q	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	L15R	possibly damaging	alignment_mz	effect unknown	0.94	0.056	0.799	
+O97980	HMHB1_HUMAN	L15S	possibly damaging	alignment_mz	effect unknown	0.954	0.051	0.787	
+O97980	HMHB1_HUMAN	L15T	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	L15V	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	L15W	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	L15Y	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	H16A	possibly damaging	alignment_mz	effect unknown	0.466	0.0993	0.887	
+O97980	HMHB1_HUMAN	H16C	benign	alignment_mz	effect unknown	0.015	0.209	0.956	
+O97980	HMHB1_HUMAN	H16D	possibly damaging	alignment_mz	effect unknown	0.615	0.0907	0.871	
+O97980	HMHB1_HUMAN	H16E	possibly damaging	alignment_mz	effect unknown	0.514	0.0962	0.883	
+O97980	HMHB1_HUMAN	H16F	possibly damaging	alignment_mz	effect unknown	0.788	0.0739	0.847	
+O97980	HMHB1_HUMAN	H16G	possibly damaging	alignment_mz	effect unknown	0.811	0.071	0.841	
+O97980	HMHB1_HUMAN	H16I	possibly damaging	alignment_mz	effect unknown	0.938	0.0564	0.801	
+O97980	HMHB1_HUMAN	H16K	possibly damaging	alignment_mz	effect unknown	0.514	0.0962	0.883	
+O97980	HMHB1_HUMAN	H16L	possibly damaging	alignment_mz	effect unknown	0.615	0.0907	0.871	
+O97980	HMHB1_HUMAN	H16M	probably damaging	alignment_mz	effect unknown	0.994	0.0289	0.689	
+O97980	HMHB1_HUMAN	H16N	benign	alignment_mz	effect unknown	0.126	0.14	0.925	
+O97980	HMHB1_HUMAN	H16P	benign	alignment_mz	effect unknown	0.047	0.168	0.942	
+O97980	HMHB1_HUMAN	H16Q	benign	alignment_mz	effect unknown	0.248	0.119	0.911	
+O97980	HMHB1_HUMAN	H16R	benign	alignment_mz	effect unknown	0.011	0.222	0.959	
+O97980	HMHB1_HUMAN	H16S	benign	alignment_mz	effect unknown	0.16	0.132	0.92	
+O97980	HMHB1_HUMAN	H16T	possibly damaging	alignment_mz	effect unknown	0.679	0.0846	0.862	
+O97980	HMHB1_HUMAN	H16V	possibly damaging	alignment_mz	effect unknown	0.679	0.0846	0.862	
+O97980	HMHB1_HUMAN	H16W	probably damaging	alignment_mz	effect unknown	0.994	0.0289	0.689	
+O97980	HMHB1_HUMAN	H16Y	benign	alignment_mz	effect unknown	0.021	0.196	0.951	
+O97980	HMHB1_HUMAN	V17A	possibly damaging	alignment_mz	effect unknown	0.582	0.0933	0.875	
+O97980	HMHB1_HUMAN	V17C	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	V17D	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	V17E	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	V17F	probably damaging	alignment_mz	effect unknown	0.991	0.0326	0.711	
+O97980	HMHB1_HUMAN	V17G	probably damaging	alignment_mz	effect unknown	0.991	0.0326	0.711	
+O97980	HMHB1_HUMAN	V17H	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	V17I	benign	alignment_mz	effect unknown	0.08	0.154	0.933	
+O97980	HMHB1_HUMAN	V17K	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	V17L	possibly damaging	alignment_mz	effect unknown	0.762	0.0768	0.851	
+O97980	HMHB1_HUMAN	V17M	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	V17N	possibly damaging	alignment_mz	effect unknown	0.809	0.0713	0.841	
+O97980	HMHB1_HUMAN	V17P	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	V17Q	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	V17R	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	V17S	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	V17T	possibly damaging	alignment_mz	effect unknown	0.809	0.0713	0.841	
+O97980	HMHB1_HUMAN	V17W	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	V17Y	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	W18A	possibly damaging	alignment_mz	effect unknown	0.625	0.0894	0.869	
+O97980	HMHB1_HUMAN	W18C	probably damaging	alignment_mz	effect unknown	0.99	0.0338	0.719	
+O97980	HMHB1_HUMAN	W18D	possibly damaging	alignment_mz	effect unknown	0.854	0.0672	0.832	
+O97980	HMHB1_HUMAN	W18E	benign	alignment_mz	effect unknown	0.13	0.139	0.925	
+O97980	HMHB1_HUMAN	W18F	possibly damaging	alignment_mz	effect unknown	0.854	0.0672	0.832	
+O97980	HMHB1_HUMAN	W18G	possibly damaging	alignment_mz	effect unknown	0.815	0.0708	0.84	
+O97980	HMHB1_HUMAN	W18H	probably damaging	alignment_mz	effect unknown	0.978	0.0417	0.756	
+O97980	HMHB1_HUMAN	W18I	possibly damaging	alignment_mz	effect unknown	0.745	0.0785	0.853	
+O97980	HMHB1_HUMAN	W18K	benign	alignment_mz	effect unknown	0.13	0.139	0.925	
+O97980	HMHB1_HUMAN	W18L	benign	alignment_mz	effect unknown	0.004	0.408	0.975	
+O97980	HMHB1_HUMAN	W18M	possibly damaging	alignment_mz	effect unknown	0.854	0.0672	0.832	
+O97980	HMHB1_HUMAN	W18N	possibly damaging	alignment_mz	effect unknown	0.854	0.0672	0.832	
+O97980	HMHB1_HUMAN	W18P	possibly damaging	alignment_mz	effect unknown	0.922	0.0588	0.809	
+O97980	HMHB1_HUMAN	W18Q	benign	alignment_mz	effect unknown	0.106	0.144	0.928	
+O97980	HMHB1_HUMAN	W18R	possibly damaging	alignment_mz	effect unknown	0.688	0.0832	0.861	
+O97980	HMHB1_HUMAN	W18S	possibly damaging	alignment_mz	effect unknown	0.815	0.0708	0.84	
+O97980	HMHB1_HUMAN	W18T	possibly damaging	alignment_mz	effect unknown	0.854	0.0672	0.832	
+O97980	HMHB1_HUMAN	W18V	possibly damaging	alignment_mz	effect unknown	0.454	0.0996	0.889	
+O97980	HMHB1_HUMAN	W18Y	probably damaging	alignment_mz	effect unknown	0.973	0.044	0.765	
+O97980	HMHB1_HUMAN	K19A	possibly damaging	alignment_mz	effect unknown	0.863	0.0664	0.83	
+O97980	HMHB1_HUMAN	K19C	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	K19D	possibly damaging	alignment_mz	effect unknown	0.917	0.0597	0.812	
+O97980	HMHB1_HUMAN	K19E	benign	alignment_mz	effect unknown	0.015	0.209	0.956	
+O97980	HMHB1_HUMAN	K19F	probably damaging	alignment_mz	effect unknown	0.994	0.0289	0.689	
+O97980	HMHB1_HUMAN	K19G	probably damaging	alignment_mz	effect unknown	0.957	0.0496	0.784	
+O97980	HMHB1_HUMAN	K19H	probably damaging	alignment_mz	effect unknown	0.994	0.0289	0.689	
+O97980	HMHB1_HUMAN	K19I	benign	alignment_mz	effect unknown	0.31	0.112	0.904	
+O97980	HMHB1_HUMAN	K19L	possibly damaging	alignment_mz	effect unknown	0.917	0.0597	0.812	
+O97980	HMHB1_HUMAN	K19M	probably damaging	alignment_mz	effect unknown	0.992	0.0314	0.704	
+O97980	HMHB1_HUMAN	K19N	benign	alignment_mz	effect unknown	0.253	0.118	0.911	
+O97980	HMHB1_HUMAN	K19P	probably damaging	alignment_mz	effect unknown	0.978	0.0417	0.756	
+O97980	HMHB1_HUMAN	K19Q	possibly damaging	alignment_mz	effect unknown	0.893	0.0634	0.821	
+O97980	HMHB1_HUMAN	K19R	possibly damaging	alignment_mz	effect unknown	0.944	0.0544	0.797	
+O97980	HMHB1_HUMAN	K19S	possibly damaging	alignment_mz	effect unknown	0.863	0.0664	0.83	
+O97980	HMHB1_HUMAN	K19T	possibly damaging	alignment_mz	effect unknown	0.944	0.0544	0.797	
+O97980	HMHB1_HUMAN	K19V	possibly damaging	alignment_mz	effect unknown	0.917	0.0597	0.812	
+O97980	HMHB1_HUMAN	K19W	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	K19Y	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	S20A	probably damaging	alignment_mz	effect unknown	0.987	0.036	0.731	
+O97980	HMHB1_HUMAN	S20C	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S20D	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S20E	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	S20F	possibly damaging	alignment_mz	effect unknown	0.946	0.0537	0.795	
+O97980	HMHB1_HUMAN	S20G	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	S20H	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S20I	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	S20K	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	S20L	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	S20M	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S20N	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	S20P	benign	alignment_mz	effect unknown	0.193	0.126	0.917	
+O97980	HMHB1_HUMAN	S20Q	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S20R	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S20T	possibly damaging	alignment_mz	effect unknown	0.94	0.056	0.799	
+O97980	HMHB1_HUMAN	S20V	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	S20W	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S20Y	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	E21A	possibly damaging	alignment_mz	effect unknown	0.939	0.0562	0.8	
+O97980	HMHB1_HUMAN	E21C	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E21D	benign	alignment_mz	effect unknown	0.101	0.145	0.929	
+O97980	HMHB1_HUMAN	E21F	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E21G	benign	alignment_mz	effect unknown	0.324	0.111	0.903	
+O97980	HMHB1_HUMAN	E21H	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E21I	probably damaging	alignment_mz	effect unknown	0.973	0.044	0.765	
+O97980	HMHB1_HUMAN	E21K	possibly damaging	alignment_mz	effect unknown	0.582	0.0933	0.875	
+O97980	HMHB1_HUMAN	E21L	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	E21M	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E21N	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	E21P	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	E21Q	possibly damaging	alignment_mz	effect unknown	0.762	0.0768	0.851	
+O97980	HMHB1_HUMAN	E21R	possibly damaging	alignment_mz	effect unknown	0.809	0.0713	0.841	
+O97980	HMHB1_HUMAN	E21S	probably damaging	alignment_mz	effect unknown	0.977	0.0424	0.758	
+O97980	HMHB1_HUMAN	E21T	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	E21V	possibly damaging	alignment_mz	effect unknown	0.762	0.0768	0.851	
+O97980	HMHB1_HUMAN	E21W	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E21Y	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	L22A	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	L22C	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	L22D	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	L22E	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	L22F	possibly damaging	alignment_mz	effect unknown	0.94	0.056	0.799	
+O97980	HMHB1_HUMAN	L22G	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	L22H	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	L22I	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	L22K	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	L22M	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	L22N	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	L22P	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	L22Q	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	L22R	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	L22S	possibly damaging	alignment_mz	effect unknown	0.94	0.056	0.799	
+O97980	HMHB1_HUMAN	L22T	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	L22V	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	L22W	possibly damaging	alignment_mz	effect unknown	0.754	0.0773	0.852	
+O97980	HMHB1_HUMAN	L22Y	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	V23A	benign	alignment_mz	effect unknown	0.187	0.127	0.917	
+O97980	HMHB1_HUMAN	V23C	probably damaging	alignment_mz	effect unknown	0.984	0.0381	0.743	
+O97980	HMHB1_HUMAN	V23D	benign	alignment_mz	effect unknown	0.358	0.109	0.898	
+O97980	HMHB1_HUMAN	V23E	possibly damaging	alignment_mz	effect unknown	0.6	0.0918	0.873	
+O97980	HMHB1_HUMAN	V23F	possibly damaging	alignment_mz	effect unknown	0.662	0.0862	0.864	
+O97980	HMHB1_HUMAN	V23G	possibly damaging	alignment_mz	effect unknown	0.531	0.0953	0.881	
+O97980	HMHB1_HUMAN	V23H	probably damaging	alignment_mz	effect unknown	0.984	0.0381	0.743	
+O97980	HMHB1_HUMAN	V23I	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	V23K	possibly damaging	alignment_mz	effect unknown	0.6	0.0918	0.873	
+O97980	HMHB1_HUMAN	V23L	benign	alignment_mz	effect unknown	0.048	0.167	0.941	
+O97980	HMHB1_HUMAN	V23M	benign	alignment_mz	effect unknown	0.118	0.141	0.927	
+O97980	HMHB1_HUMAN	V23N	benign	alignment_mz	effect unknown	0.063	0.16	0.937	
+O97980	HMHB1_HUMAN	V23P	possibly damaging	alignment_mz	effect unknown	0.941	0.0556	0.799	
+O97980	HMHB1_HUMAN	V23Q	possibly damaging	alignment_mz	effect unknown	0.941	0.0556	0.799	
+O97980	HMHB1_HUMAN	V23R	possibly damaging	alignment_mz	effect unknown	0.84	0.0683	0.836	
+O97980	HMHB1_HUMAN	V23S	benign	alignment_mz	effect unknown	0.27	0.116	0.909	
+O97980	HMHB1_HUMAN	V23T	benign	alignment_mz	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	V23W	probably damaging	alignment_mz	effect unknown	0.984	0.0381	0.743	
+O97980	HMHB1_HUMAN	V23Y	possibly damaging	alignment_mz	effect unknown	0.941	0.0556	0.799	
+O97980	HMHB1_HUMAN	E24A	possibly damaging	alignment_mz	effect unknown	0.728	0.0796	0.856	
+O97980	HMHB1_HUMAN	E24C	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	E24D	possibly damaging	alignment_mz	effect unknown	0.728	0.0796	0.856	
+O97980	HMHB1_HUMAN	E24F	possibly damaging	alignment_mz	effect unknown	0.926	0.0582	0.807	
+O97980	HMHB1_HUMAN	E24G	possibly damaging	alignment_mz	effect unknown	0.904	0.0621	0.816	
+O97980	HMHB1_HUMAN	E24H	probably damaging	alignment_mz	effect unknown	0.99	0.0338	0.719	
+O97980	HMHB1_HUMAN	E24I	benign	alignment_mz	effect unknown	0.201	0.125	0.916	
+O97980	HMHB1_HUMAN	E24K	benign	alignment_mz	effect unknown	0.008	0.239	0.963	
+O97980	HMHB1_HUMAN	E24L	possibly damaging	alignment_mz	effect unknown	0.64	0.0887	0.866	
+O97980	HMHB1_HUMAN	E24M	probably damaging	alignment_mz	effect unknown	0.99	0.0338	0.719	
+O97980	HMHB1_HUMAN	E24N	benign	alignment_mz	effect unknown	0.201	0.125	0.916	
+O97980	HMHB1_HUMAN	E24P	probably damaging	alignment_mz	effect unknown	0.962	0.0478	0.779	
+O97980	HMHB1_HUMAN	E24Q	possibly damaging	alignment_mz	effect unknown	0.904	0.0621	0.816	
+O97980	HMHB1_HUMAN	E24R	possibly damaging	alignment_mz	effect unknown	0.862	0.0664	0.83	
+O97980	HMHB1_HUMAN	E24S	possibly damaging	alignment_mz	effect unknown	0.78	0.0747	0.848	
+O97980	HMHB1_HUMAN	E24T	possibly damaging	alignment_mz	effect unknown	0.926	0.0582	0.807	
+O97980	HMHB1_HUMAN	E24V	benign	alignment_mz	effect unknown	0.356	0.109	0.898	
+O97980	HMHB1_HUMAN	E24W	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	E24Y	benign	alignment_mz	effect unknown	0.423	0.103	0.892	
+O97980	HMHB1_HUMAN	V25A	benign	alignment_mz	effect unknown	0.376	0.107	0.897	
+O97980	HMHB1_HUMAN	V25C	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	V25D	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	V25E	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	V25F	benign	alignment_mz	effect unknown	0.324	0.111	0.903	
+O97980	HMHB1_HUMAN	V25G	probably damaging	alignment_mz	effect unknown	0.982	0.0393	0.748	
+O97980	HMHB1_HUMAN	V25H	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	V25I	benign	alignment_mz	effect unknown	0.376	0.107	0.897	
+O97980	HMHB1_HUMAN	V25K	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	V25L	benign	alignment_mz	effect unknown	0.172	0.13	0.919	
+O97980	HMHB1_HUMAN	V25M	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	V25N	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	V25P	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	V25Q	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	V25R	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	V25S	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	V25T	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	V25W	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	V25Y	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	E26A	possibly damaging	alignment_mz	effect unknown	0.851	0.0673	0.833	
+O97980	HMHB1_HUMAN	E26C	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E26D	benign	alignment_mz	effect unknown	0.314	0.112	0.903	
+O97980	HMHB1_HUMAN	E26F	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E26G	probably damaging	alignment_mz	effect unknown	0.99	0.0338	0.719	
+O97980	HMHB1_HUMAN	E26H	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E26I	possibly damaging	alignment_mz	effect unknown	0.722	0.08	0.857	
+O97980	HMHB1_HUMAN	E26K	possibly damaging	alignment_mz	effect unknown	0.713	0.0812	0.858	
+O97980	HMHB1_HUMAN	E26L	probably damaging	alignment_mz	effect unknown	0.985	0.0375	0.74	
+O97980	HMHB1_HUMAN	E26M	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E26N	probably damaging	alignment_mz	effect unknown	0.992	0.0314	0.704	
+O97980	HMHB1_HUMAN	E26P	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	E26Q	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	E26R	probably damaging	alignment_mz	effect unknown	0.992	0.0314	0.704	
+O97980	HMHB1_HUMAN	E26S	probably damaging	alignment_mz	effect unknown	0.992	0.0314	0.704	
+O97980	HMHB1_HUMAN	E26T	probably damaging	alignment_mz	effect unknown	0.996	0.0222	0.545	
+O97980	HMHB1_HUMAN	E26V	possibly damaging	alignment_mz	effect unknown	0.713	0.0812	0.858	
+O97980	HMHB1_HUMAN	E26W	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	E26Y	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	D27A	possibly damaging	alignment_mz	effect unknown	0.728	0.0796	0.856	
+O97980	HMHB1_HUMAN	D27C	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	D27E	possibly damaging	alignment_mz	effect unknown	0.728	0.0796	0.856	
+O97980	HMHB1_HUMAN	D27F	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	D27G	benign	alignment_mz	effect unknown	0.008	0.239	0.963	
+O97980	HMHB1_HUMAN	D27H	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	D27I	probably damaging	alignment_mz	effect unknown	0.987	0.036	0.731	
+O97980	HMHB1_HUMAN	D27K	benign	alignment_mz	effect unknown	0.099	0.146	0.93	
+O97980	HMHB1_HUMAN	D27L	probably damaging	alignment_mz	effect unknown	0.962	0.0478	0.779	
+O97980	HMHB1_HUMAN	D27M	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	D27N	benign	alignment_mz	effect unknown	0.004	0.408	0.975	
+O97980	HMHB1_HUMAN	D27P	probably damaging	alignment_mz	effect unknown	0.987	0.036	0.731	
+O97980	HMHB1_HUMAN	D27Q	probably damaging	alignment_mz	effect unknown	0.962	0.0478	0.779	
+O97980	HMHB1_HUMAN	D27R	possibly damaging	alignment_mz	effect unknown	0.862	0.0664	0.83	
+O97980	HMHB1_HUMAN	D27S	benign	alignment_mz	effect unknown	0.242	0.12	0.912	
+O97980	HMHB1_HUMAN	D27T	possibly damaging	alignment_mz	effect unknown	0.78	0.0747	0.848	
+O97980	HMHB1_HUMAN	D27V	possibly damaging	alignment_mz	effect unknown	0.95	0.0527	0.791	
+O97980	HMHB1_HUMAN	D27W	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	D27Y	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	D28A	benign	alignment_mz	effect unknown	0.341	0.11	0.9	
+O97980	HMHB1_HUMAN	D28C	benign	alignment_mz	effect unknown	0.256	0.118	0.911	
+O97980	HMHB1_HUMAN	D28E	possibly damaging	alignment_mz	effect unknown	0.557	0.0943	0.878	
+O97980	HMHB1_HUMAN	D28F	possibly damaging	alignment_mz	effect unknown	0.454	0.0996	0.889	
+O97980	HMHB1_HUMAN	D28G	possibly damaging	alignment_mz	effect unknown	0.718	0.0806	0.857	
+O97980	HMHB1_HUMAN	D28H	possibly damaging	alignment_mz	effect unknown	0.815	0.0708	0.84	
+O97980	HMHB1_HUMAN	D28I	possibly damaging	alignment_mz	effect unknown	0.854	0.0672	0.832	
+O97980	HMHB1_HUMAN	D28K	possibly damaging	alignment_mz	effect unknown	0.454	0.0996	0.889	
+O97980	HMHB1_HUMAN	D28L	possibly damaging	alignment_mz	effect unknown	0.625	0.0894	0.869	
+O97980	HMHB1_HUMAN	D28M	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	D28N	possibly damaging	alignment_mz	effect unknown	0.557	0.0943	0.878	
+O97980	HMHB1_HUMAN	D28P	probably damaging	alignment_mz	effect unknown	0.973	0.044	0.765	
+O97980	HMHB1_HUMAN	D28Q	possibly damaging	alignment_mz	effect unknown	0.854	0.0672	0.832	
+O97980	HMHB1_HUMAN	D28R	benign	alignment_mz	effect unknown	0.027	0.186	0.948	
+O97980	HMHB1_HUMAN	D28S	benign	alignment_mz	effect unknown	0.13	0.139	0.925	
+O97980	HMHB1_HUMAN	D28T	benign	alignment_mz	effect unknown	0.13	0.139	0.925	
+O97980	HMHB1_HUMAN	D28V	possibly damaging	alignment_mz	effect unknown	0.557	0.0943	0.878	
+O97980	HMHB1_HUMAN	D28W	probably damaging	alignment_mz	effect unknown	0.978	0.0417	0.756	
+O97980	HMHB1_HUMAN	D28Y	benign	alignment_mz	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	V29A	benign	alignment_mz	effect unknown	0.172	0.13	0.919	
+O97980	HMHB1_HUMAN	V29C	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	V29D	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	V29E	probably damaging	alignment_mz	effect unknown	0.982	0.0393	0.748	
+O97980	HMHB1_HUMAN	V29F	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	V29G	probably damaging	alignment_mz	effect unknown	0.982	0.0393	0.748	
+O97980	HMHB1_HUMAN	V29H	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	V29I	benign	alignment_mz	effect unknown	0.216	0.122	0.914	
+O97980	HMHB1_HUMAN	V29K	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	V29L	benign	alignment_mz	effect unknown	0.046	0.169	0.942	
+O97980	HMHB1_HUMAN	V29M	possibly damaging	alignment_mz	effect unknown	0.762	0.0768	0.851	
+O97980	HMHB1_HUMAN	V29N	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	V29P	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	V29Q	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	V29R	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	V29S	possibly damaging	alignment_mz	effect unknown	0.809	0.0713	0.841	
+O97980	HMHB1_HUMAN	V29T	possibly damaging	alignment_mz	effect unknown	0.911	0.0607	0.814	
+O97980	HMHB1_HUMAN	V29W	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	V29Y	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	Y30A	possibly damaging	alignment_mz	effect unknown	0.911	0.0607	0.814	
+O97980	HMHB1_HUMAN	Y30C	possibly damaging	alignment_mz	effect unknown	0.727	0.0796	0.856	
+O97980	HMHB1_HUMAN	Y30D	probably damaging	alignment_mz	effect unknown	0.991	0.0326	0.711	
+O97980	HMHB1_HUMAN	Y30E	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	Y30F	benign	alignment_mz	effect unknown	0.204	0.124	0.915	
+O97980	HMHB1_HUMAN	Y30G	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	Y30H	possibly damaging	alignment_mz	effect unknown	0.762	0.0768	0.851	
+O97980	HMHB1_HUMAN	Y30I	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	Y30K	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	Y30L	possibly damaging	alignment_mz	effect unknown	0.911	0.0607	0.814	
+O97980	HMHB1_HUMAN	Y30M	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	Y30N	probably damaging	alignment_mz	effect unknown	0.991	0.0326	0.711	
+O97980	HMHB1_HUMAN	Y30P	benign	alignment_mz	effect unknown	0.254	0.118	0.911	
+O97980	HMHB1_HUMAN	Y30Q	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	Y30R	probably damaging	alignment_mz	effect unknown	0.993	0.0301	0.696	
+O97980	HMHB1_HUMAN	Y30S	possibly damaging	alignment_mz	effect unknown	0.762	0.0768	0.851	
+O97980	HMHB1_HUMAN	Y30T	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	Y30V	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	Y30W	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	L31A	benign	alignment_mz	effect unknown	0.272	0.116	0.908	
+O97980	HMHB1_HUMAN	L31C	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	L31D	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	L31E	probably damaging	alignment_mz	effect unknown	0.986	0.0368	0.736	
+O97980	HMHB1_HUMAN	L31F	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	L31G	possibly damaging	alignment_mz	effect unknown	0.906	0.0617	0.816	
+O97980	HMHB1_HUMAN	L31H	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	L31I	possibly damaging	alignment_mz	effect unknown	0.464	0.0994	0.888	
+O97980	HMHB1_HUMAN	L31K	possibly damaging	alignment_mz	effect unknown	0.906	0.0617	0.816	
+O97980	HMHB1_HUMAN	L31M	probably damaging	alignment_mz	effect unknown	0.994	0.0289	0.689	
+O97980	HMHB1_HUMAN	L31N	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	L31P	benign	alignment_mz	effect unknown	0.009	0.233	0.961	
+O97980	HMHB1_HUMAN	L31Q	probably damaging	alignment_mz	effect unknown	0.994	0.0289	0.689	
+O97980	HMHB1_HUMAN	L31R	possibly damaging	alignment_mz	effect unknown	0.6	0.0918	0.873	
+O97980	HMHB1_HUMAN	L31S	possibly damaging	alignment_mz	effect unknown	0.906	0.0617	0.816	
+O97980	HMHB1_HUMAN	L31T	possibly damaging	alignment_mz	effect unknown	0.951	0.0522	0.79	
+O97980	HMHB1_HUMAN	L31V	benign	alignment_mz	effect unknown	0.395	0.105	0.896	
+O97980	HMHB1_HUMAN	L31W	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	L31Y	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	R32A	probably damaging	alignment_mz	effect unknown	0.973	0.044	0.765	
+O97980	HMHB1_HUMAN	R32C	possibly damaging	alignment_mz	effect unknown	0.863	0.0664	0.83	
+O97980	HMHB1_HUMAN	R32D	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	R32E	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	R32F	probably damaging	alignment_mz	effect unknown	0.992	0.0314	0.704	
+O97980	HMHB1_HUMAN	R32G	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	R32H	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	R32I	possibly damaging	alignment_mz	effect unknown	0.883	0.0643	0.823	
+O97980	HMHB1_HUMAN	R32K	probably damaging	alignment_mz	effect unknown	0.994	0.0289	0.689	
+O97980	HMHB1_HUMAN	R32L	probably damaging	alignment_mz	effect unknown	0.973	0.044	0.765	
+O97980	HMHB1_HUMAN	R32M	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	R32N	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	R32P	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	R32Q	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	R32S	possibly damaging	alignment_mz	effect unknown	0.851	0.0673	0.833	
+O97980	HMHB1_HUMAN	R32T	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	R32V	probably damaging	alignment_mz	effect unknown	0.992	0.0314	0.704	
+O97980	HMHB1_HUMAN	R32W	benign	alignment_mz	effect unknown	0.314	0.112	0.903	
+O97980	HMHB1_HUMAN	R32Y	probably damaging	alignment_mz	effect unknown	0.992	0.0314	0.704	
+O97980	HMHB1_HUMAN	H33A	possibly damaging	alignment_mz	effect unknown	0.826	0.0696	0.838	
+O97980	HMHB1_HUMAN	H33C	benign	alignment_mz	effect unknown	0.033	0.179	0.946	
+O97980	HMHB1_HUMAN	H33D	probably damaging	alignment_mz	effect unknown	0.987	0.036	0.731	
+O97980	HMHB1_HUMAN	H33E	probably damaging	alignment_mz	effect unknown	0.971	0.0444	0.768	
+O97980	HMHB1_HUMAN	H33F	possibly damaging	alignment_mz	effect unknown	0.893	0.0634	0.821	
+O97980	HMHB1_HUMAN	H33G	probably damaging	alignment_mz	effect unknown	0.971	0.0444	0.768	
+O97980	HMHB1_HUMAN	H33I	possibly damaging	alignment_mz	effect unknown	0.943	0.0548	0.797	
+O97980	HMHB1_HUMAN	H33K	probably damaging	alignment_mz	effect unknown	0.971	0.0444	0.768	
+O97980	HMHB1_HUMAN	H33L	benign	alignment_mz	effect unknown	0.046	0.169	0.942	
+O97980	HMHB1_HUMAN	H33M	probably damaging	alignment_mz	effect unknown	0.992	0.0314	0.704	
+O97980	HMHB1_HUMAN	H33N	probably damaging	alignment_mz	effect unknown	0.987	0.036	0.731	
+O97980	HMHB1_HUMAN	H33P	probably damaging	alignment_mz	effect unknown	0.987	0.036	0.731	
+O97980	HMHB1_HUMAN	H33Q	probably damaging	alignment_mz	effect unknown	0.987	0.036	0.731	
+O97980	HMHB1_HUMAN	H33R	probably damaging	alignment_mz	effect unknown	0.962	0.0478	0.779	
+O97980	HMHB1_HUMAN	H33S	probably damaging	alignment_mz	effect unknown	0.971	0.0444	0.768	
+O97980	HMHB1_HUMAN	H33T	probably damaging	alignment_mz	effect unknown	0.971	0.0444	0.768	
+O97980	HMHB1_HUMAN	H33V	possibly damaging	alignment_mz	effect unknown	0.826	0.0696	0.838	
+O97980	HMHB1_HUMAN	H33W	probably damaging	alignment_mz	effect unknown	0.992	0.0314	0.704	
+O97980	HMHB1_HUMAN	H33Y	benign	alignment_mz	effect unknown	0.011	0.222	0.959	
+O97980	HMHB1_HUMAN	S34A	possibly damaging	alignment_mz	effect unknown	0.799	0.0726	0.843	
+O97980	HMHB1_HUMAN	S34C	possibly damaging	alignment_mz	effect unknown	0.6	0.0918	0.873	
+O97980	HMHB1_HUMAN	S34D	possibly damaging	alignment_mz	effect unknown	0.906	0.0617	0.816	
+O97980	HMHB1_HUMAN	S34E	possibly damaging	alignment_mz	effect unknown	0.906	0.0617	0.816	
+O97980	HMHB1_HUMAN	S34F	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	S34G	benign	alignment_mz	effect unknown	0.009	0.233	0.961	
+O97980	HMHB1_HUMAN	S34H	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	S34I	possibly damaging	alignment_mz	effect unknown	0.6	0.0918	0.873	
+O97980	HMHB1_HUMAN	S34K	possibly damaging	alignment_mz	effect unknown	0.828	0.0694	0.838	
+O97980	HMHB1_HUMAN	S34L	possibly damaging	alignment_mz	effect unknown	0.906	0.0617	0.816	
+O97980	HMHB1_HUMAN	S34M	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	S34N	benign	alignment_mz	effect unknown	0.106	0.144	0.928	
+O97980	HMHB1_HUMAN	S34P	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	S34Q	probably damaging	alignment_mz	effect unknown	0.971	0.0444	0.768	
+O97980	HMHB1_HUMAN	S34R	benign	alignment_mz	effect unknown	0.022	0.195	0.951	
+O97980	HMHB1_HUMAN	S34T	possibly damaging	alignment_mz	effect unknown	0.936	0.0568	0.802	
+O97980	HMHB1_HUMAN	S34V	possibly damaging	alignment_mz	effect unknown	0.906	0.0617	0.816	
+O97980	HMHB1_HUMAN	S34W	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	S34Y	probably damaging	alignment_mz	effect unknown	0.995	0.0277	0.681	
+O97980	HMHB1_HUMAN	S35A	probably damaging	alignment_mz	effect unknown	0.994	0.0289	0.689	
+O97980	HMHB1_HUMAN	S35C	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S35D	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S35E	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S35F	possibly damaging	alignment_mz	effect unknown	0.94	0.056	0.799	
+O97980	HMHB1_HUMAN	S35G	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S35H	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S35I	probably damaging	alignment_mz	effect unknown	0.994	0.0289	0.689	
+O97980	HMHB1_HUMAN	S35K	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S35L	possibly damaging	alignment_mz	effect unknown	0.878	0.0649	0.825	
+O97980	HMHB1_HUMAN	S35M	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S35N	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S35P	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	S35Q	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S35R	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S35T	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	S35V	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	S35W	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S35Y	possibly damaging	alignment_mz	effect unknown	0.844	0.0677	0.835	
+O97980	HMHB1_HUMAN	S36A	probably damaging	alignment_mz	effect unknown	0.994	0.0289	0.689	
+O97980	HMHB1_HUMAN	S36C	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S36D	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S36E	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	S36F	possibly damaging	alignment_mz	effect unknown	0.929	0.0579	0.806	
+O97980	HMHB1_HUMAN	S36G	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	S36H	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S36I	probably damaging	alignment_mz	effect unknown	0.994	0.0289	0.689	
+O97980	HMHB1_HUMAN	S36K	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	S36L	possibly damaging	alignment_mz	effect unknown	0.758	0.077	0.852	
+O97980	HMHB1_HUMAN	S36M	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S36N	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S36P	possibly damaging	alignment_mz	effect unknown	0.559	0.0942	0.877	
+O97980	HMHB1_HUMAN	S36Q	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S36R	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S36T	probably damaging	alignment_mz	effect unknown	0.998	0.0112	0.273	
+O97980	HMHB1_HUMAN	S36V	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	S36W	probably damaging	alignment_mz	effect unknown	1	0.00026	0.00018	
+O97980	HMHB1_HUMAN	S36Y	probably damaging	alignment_mz	effect unknown	0.996	0.0222	0.545	
+O97980	HMHB1_HUMAN	L37A	benign	alignment_mz	effect unknown	0.063	0.16	0.937	
+O97980	HMHB1_HUMAN	L37C	probably damaging	alignment_mz	effect unknown	0.984	0.0381	0.743	
+O97980	HMHB1_HUMAN	L37D	possibly damaging	alignment_mz	effect unknown	0.6	0.0918	0.873	
+O97980	HMHB1_HUMAN	L37E	benign	alignment_mz	effect unknown	0.234	0.121	0.912	
+O97980	HMHB1_HUMAN	L37F	benign	alignment_mz	effect unknown	0.002	0.704	0.987	
+O97980	HMHB1_HUMAN	L37G	benign	alignment_mz	effect unknown	0.234	0.121	0.912	
+O97980	HMHB1_HUMAN	L37H	benign	alignment_mz	effect unknown	0.01	0.226	0.96	
+O97980	HMHB1_HUMAN	L37I	benign	alignment_mz	effect unknown	0.425	0.103	0.892	
+O97980	HMHB1_HUMAN	L37K	benign	alignment_mz	effect unknown	0.425	0.103	0.892	
+O97980	HMHB1_HUMAN	L37M	possibly damaging	alignment_mz	effect unknown	0.924	0.0584	0.808	
+O97980	HMHB1_HUMAN	L37N	benign	alignment_mz	effect unknown	0.425	0.103	0.892	
+O97980	HMHB1_HUMAN	L37P	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	L37Q	possibly damaging	alignment_mz	effect unknown	0.531	0.0953	0.881	
+O97980	HMHB1_HUMAN	L37R	possibly damaging	alignment_mz	effect unknown	0.531	0.0953	0.881	
+O97980	HMHB1_HUMAN	L37S	benign	alignment_mz	effect unknown	0.004	0.408	0.975	
+O97980	HMHB1_HUMAN	L37T	benign	alignment_mz	effect unknown	0.234	0.121	0.912	
+O97980	HMHB1_HUMAN	L37V	benign	alignment_mz	effect unknown	0.187	0.127	0.917	
+O97980	HMHB1_HUMAN	L37W	probably damaging	alignment_mz	effect unknown	0.984	0.0381	0.743	
+O97980	HMHB1_HUMAN	L37Y	benign	alignment_mz	effect unknown	0.27	0.116	0.909	
+O97980	HMHB1_HUMAN	T38A	possibly damaging	alignment_mz	effect unknown	0.93	0.0578	0.805	
+O97980	HMHB1_HUMAN	T38C	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	T38D	probably damaging	alignment_mz	effect unknown	0.992	0.0314	0.704	
+O97980	HMHB1_HUMAN	T38E	probably damaging	alignment_mz	effect unknown	0.992	0.0314	0.704	
+O97980	HMHB1_HUMAN	T38F	probably damaging	alignment_mz	effect unknown	0.984	0.0381	0.743	
+O97980	HMHB1_HUMAN	T38G	probably damaging	alignment_mz	effect unknown	0.992	0.0314	0.704	
+O97980	HMHB1_HUMAN	T38H	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	T38I	benign	alignment_mz	effect unknown	0.087	0.15	0.932	
+O97980	HMHB1_HUMAN	T38K	probably damaging	alignment_mz	effect unknown	0.992	0.0314	0.704	
+O97980	HMHB1_HUMAN	T38L	possibly damaging	alignment_mz	effect unknown	0.898	0.0629	0.819	
+O97980	HMHB1_HUMAN	T38M	probably damaging	alignment_mz	effect unknown	0.996	0.0222	0.545	
+O97980	HMHB1_HUMAN	T38N	probably damaging	alignment_mz	effect unknown	0.989	0.0346	0.723	
+O97980	HMHB1_HUMAN	T38P	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	T38Q	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	T38R	probably damaging	alignment_mz	effect unknown	0.997	0.0167	0.409	
+O97980	HMHB1_HUMAN	T38S	possibly damaging	alignment_mz	effect unknown	0.543	0.0948	0.88	
+O97980	HMHB1_HUMAN	T38V	possibly damaging	alignment_mz	effect unknown	0.751	0.0775	0.853	
+O97980	HMHB1_HUMAN	T38W	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	T38Y	probably damaging	alignment_mz	effect unknown	0.999	0.00574	0.136	
+O97980	HMHB1_HUMAN	Y39A	benign	alignment_mz	effect unknown	0.084	0.152	0.932	
+O97980	HMHB1_HUMAN	Y39C	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	Y39D	benign	alignment_mz	effect unknown	0.144	0.136	0.922	
+O97980	HMHB1_HUMAN	Y39E	benign	alignment_mz	effect unknown	0.101	0.145	0.929	
+O97980	HMHB1_HUMAN	Y39F	benign	alignment_mz	effect unknown	0.144	0.136	0.922	
+O97980	HMHB1_HUMAN	Y39G	benign	alignment_mz	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	Y39H	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	Y39I	possibly damaging	alignment_mz	effect unknown	0.614	0.0908	0.871	
+O97980	HMHB1_HUMAN	Y39K	benign	alignment_mz	effect unknown	0.183	0.128	0.918	
+O97980	HMHB1_HUMAN	Y39L	benign	alignment_mz	effect unknown	0.183	0.128	0.918	
+O97980	HMHB1_HUMAN	Y39M	possibly damaging	alignment_mz	effect unknown	0.829	0.0693	0.837	
+O97980	HMHB1_HUMAN	Y39N	benign	alignment_mz	effect unknown	0.007	0.246	0.965	
+O97980	HMHB1_HUMAN	Y39P	possibly damaging	alignment_mz	effect unknown	0.614	0.0908	0.871	
+O97980	HMHB1_HUMAN	Y39Q	benign	alignment_mz	effect unknown	0.439	0.101	0.891	
+O97980	HMHB1_HUMAN	Y39R	benign	alignment_mz	effect unknown	0.439	0.101	0.891	
+O97980	HMHB1_HUMAN	Y39S	benign	alignment_mz	effect unknown	0.144	0.136	0.922	
+O97980	HMHB1_HUMAN	Y39T	benign	alignment_mz	effect unknown	0.312	0.112	0.904	
+O97980	HMHB1_HUMAN	Y39V	benign	alignment_mz	effect unknown	0.183	0.128	0.918	
+O97980	HMHB1_HUMAN	Y39W	possibly damaging	alignment_mz	effect unknown	0.948	0.0532	0.793	
+O97980	HMHB1_HUMAN	R40A	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	R40C	benign	alignment_mz	effect unknown	0.274	0.116	0.908	
+O97980	HMHB1_HUMAN	R40D	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	R40E	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	R40F	benign	alignment_mz	effect unknown	0.01	0.226	0.96	
+O97980	HMHB1_HUMAN	R40G	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	R40H	benign	alignment_mz	effect unknown	0.022	0.195	0.951	
+O97980	HMHB1_HUMAN	R40I	benign	alignment_mz	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	R40K	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	R40L	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	R40M	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	R40N	benign	alignment_mz	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	R40P	benign	alignment_mz	effect unknown	0.004	0.408	0.975	
+O97980	HMHB1_HUMAN	R40Q	benign	alignment_mz	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	R40S	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	R40T	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	R40V	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	R40W	benign	alignment_mz	effect unknown	0.222	0.122	0.914	
+O97980	HMHB1_HUMAN	R40Y	benign	alignment_mz	effect unknown	0.029	0.183	0.948	
+O97980	HMHB1_HUMAN	L41A	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	L41C	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	L41D	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	L41E	benign	alignment_mz	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	L41F	benign	alignment_mz	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	L41G	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	L41H	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	L41I	benign	alignment_mz	effect unknown	0.004	0.408	0.975	
+O97980	HMHB1_HUMAN	L41K	benign	alignment_mz	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	L41M	benign	alignment_mz	effect unknown	0.135	0.138	0.924	
+O97980	HMHB1_HUMAN	L41N	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	L41P	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	L41Q	benign	alignment_mz	effect unknown	0.01	0.226	0.96	
+O97980	HMHB1_HUMAN	L41R	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	L41S	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	L41T	benign	alignment_mz	effect unknown	0.001	0.852	0.994	
+O97980	HMHB1_HUMAN	L41V	benign	alignment_mz	effect unknown	0.002	0.704	0.987	
+O97980	HMHB1_HUMAN	L41W	benign	alignment_mz	effect unknown	0	1	1	
+O97980	HMHB1_HUMAN	L41Y	benign	alignment_mz	effect unknown	0	1	1	

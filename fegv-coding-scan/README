@@ -1,0 +1,8 @@
+Program to predict functional effect of SNPs
+
+REMARKS
+- name of the protein in the first line of the fasta file must be same as given in the input file
+
+fegv-coding-scan-0.1.pl
+	first version adapted from fegv-coding-0.6.pl
+	runs Polyphen and SNAP (snapfun)
