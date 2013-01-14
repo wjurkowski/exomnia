@@ -1,4 +1,7 @@
-Version
+Test
+perl mapSNV-0.1c.pl 3pbl A rare common ~/Szafa/db/mapping_data/sifts-pdb_chain_uniprot.lst
+
+Versions
 mapSNV-0.1a.pl
 	first working
 mapSNV-0.1b.pl
@@ -9,4 +12,9 @@ mapSNV-0.1c.pl
 snv2pdb-0.2.pl
 	new name and version numbering
 	new name of output file
+snv2pdb-0.3.pl
+	corrected cases with multiple uniprot AC present in one pdb chain. This happens when chimera protein (e.g. with lysosyme) is crystalized. 
+	corrected cases with broken chain - now mapping is done separately
+
 	
+
