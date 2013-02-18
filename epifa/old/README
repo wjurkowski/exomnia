@@ -1,0 +1,42 @@
+REMARKS
+- name of the protein in the first line of the fasta file must be same as given in the input file
+
+- synonymous and subst. with X should be removed prior calc.
+
+
+wersje 0.1 - do 0.4 
+	- rozne rozwojowe	
+perl fegv-coding.pl O00555.fasta O00555 894 R Q - -
+
+fegv-coding-0.4b.pl 
+	tested on Panther, Mutation Assesor and PhD-SNP2
+	perl fegv-coding-0.5.pl input_list.txt 1> out 2> errors	
+fegv-coding-0.5.pl
+	tested on all above and Polyphen. All problems resolved.
+fegv-coding-0.5a.pl
+	added path to fasta db
+fegv-coding-0.6.pl
+	SNAP added (without proteinpredictor) - snapfun that is old version
+fegv-coding-0.6a.pl
+	snapfun replaced with SNAP2 lite (Slite)
+fegv-coding-0.6b.pl
+	control of cases withouth results (or full results) for PPH, PhD-SNP and MutAssesor
+fegv-coding-0.7.pl
+	new format of input file
+fegv-coding-0.7a.pl
+	SNV protein fingerprint added to input and output
+fegv-coding-0.7b.pl
+	output file specific to input file and method
+
+
+Testing and debuging
+	1. run slite alone
+	slap -i O95180.fasta -m snap_input.txt -o snap_tmp.out -w SNAP_tmpdir -cpus 20
+	2. run blast alone
+	/usr/bin/blastpgp -i O95180.fasta -d nrdb -e 0.001 -j 3 -a 20 -o output -Q matrix
+	
+
+
+TODO
+	add input info printed and more descriptions in the code
+	
