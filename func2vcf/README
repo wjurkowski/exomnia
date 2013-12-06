@@ -1,0 +1,30 @@
+func2vcf.pl combines multiple func files and print file in VCFv4.0 format
+
+Dependencies:
+1. Perl 5
+2. Perl modules	
+ Time::Piece
+	used to get current date http://search.cpan.org/~msergeant/Time-Piece-1.20/Piece.pm 
+ Math::Round perl module 
+	used to round the number to second decimal	
+
+To run func2vcf.pl:
+	perl func2vcf.pl list.txt 
+where list.txt is a text file of arbitrary name that should contain list of all func files to analyze
+
+For every func file error file is produced storing incorrect or ambigous lines. Possible error tags:
+ ROH_CNV
+ WRONG_GENOTYPE_OR_ALT
+ NO_GENOTYPE
+ NO_LOC_ORG 
+
+Older versions:
+ func2vcf-SNP.pl - test version for just SNPs
+ func2vcf-old.pl - working version without printing quality in genotype field; without printing additional statistics and extended info field (PROT and HGNC)
+
+	
+
+
+
+
+
