@@ -1,6 +1,5 @@
 REMARKS
 - name of the protein in the first line of the fasta file must be same as given in the input file
-
 - synonymous and subst. with X should be removed prior calc.
 
 

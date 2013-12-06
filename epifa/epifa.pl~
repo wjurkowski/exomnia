@@ -5,7 +5,6 @@ use LWP;
 use LWP::Simple;
 use LWP::UserAgent;
 use WWW::Mechanize;
-use Getopt::Std;
 my $Agent = LWP::UserAgent->new;
 
 my (%opt);

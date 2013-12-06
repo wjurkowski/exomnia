@@ -1,0 +1,78 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+if ($#ARGV != 0) {die "Program used with parameters [input file]\n";}
+
+open(INP, "< $ARGV[0]") or die "Can not open an input file: $!";
+#output file
+open (GOUT, "> $ARGV[0].jury") or die "Can not create general output file: $!";
+
+
+while(<INP>){
+  my $lin =$_;
+  chomp $lin;
+  $lin =~ s/\r//g
+  my $tak=0;
+  my $nie=0;
+  my $votes=0;
+  my $verdict="invalid";
+  my @predi=split(/\t/,$lin);
+  unless($predi[21] eq "."){
+    $votes++;
+    if ($predi[21] < 0.05) {$tak++;}
+    else {$nie++;}
+  }
+  unless($predi[23] eq "."){
+    $votes++;
+    my $pph1=even($predi[23]);
+    if ($pph1 eq "P" or $pph1 eq "D"){$tak++;}
+    else {$nie++;}
+  }
+  unless($predi[25] eq "."){
+    $votes++;
+    my $pph2=even($predi[25]);
+    if ($pph2 eq "P" or $pph2 eq "D") {$tak++;}
+    else {$nie++;}
+  }
+  unless($predi[27] eq "."){
+    $votes++;
+    if ($predi[27] eq "D") {$tak++;}
+    else {$nie++;}
+  }
+  unless($predi[29] eq "."){
+    $votes++;
+    if ($predi[29] eq "A" or $predi[29] eq "D") {$tak++;}
+    else {$nie++;}
+  }
+  unless($predi[31] eq "."){
+    $votes++;
+    if ($predi[31] eq "medium" or $predi[31] eq "high") {$tak++;}
+    else {$nie++;}
+  }
+  unless($predi[32] eq "."){
+    $votes++;
+    if ($predi[32] < -1.5) {$tak++;}
+  }
+  if($votes > 2){
+    if($tak > int($votes)){$verdict="damaging";}
+    elsif($nie > int($votes)){$verdict="benign";}
+  }
+  push(@predi,$verdict);
+  foreach my $val (@predi){printf GOUT "$val\t";}
+  printf GOUT "\n";
+}
+
+#other
+
+sub even{
+  my @multiPPH=split(";",@_);
+  my $pred="D";
+  foreach my $p(@multiPPH){
+    if($p eq "P"){$pred="P";}
+    elsif($p eq "B"){$pred="B";}
+  }
+  return $pred;
+}
+
+
+
