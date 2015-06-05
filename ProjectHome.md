@@ -1,0 +1,1 @@
+Scripts to facilitate analysis of single nucleotide genetic variations in exoms
